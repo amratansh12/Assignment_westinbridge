@@ -1,0 +1,15 @@
+.card-about-section p{
+    font-size: 15px;
+}
+
+.About-title{
+    background: linear-gradient(to right, #FFA500, #ffffff )
+}
+
+.Roadmap-title{
+    background: linear-gradient(to right, #D3D3D3, #ffffff )
+}
+
+.Service-title{
+    background: linear-gradient(to right, #0096FF, #ffffff )
+}
