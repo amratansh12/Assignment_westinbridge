@@ -13,8 +13,8 @@ function App() {
     <>
       <Navigationbar />   
       <Routes>
-        <Route path="/" element={<Home />} exact/>
-        <Route path="/services" element={<Services />} exact/>
+        <Route path="Assignment_westinbridge/" element={<Home />} exact/>
+        <Route path="Assignment_westinbridge/services" element={<Services />} exact/>
       </Routes>   
       <Footer />
     </>
